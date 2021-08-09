@@ -1,6 +1,6 @@
 ---
 title: "Dra Valeria Román Fernández"
-image: "DraValeriaRoman.jpj"
+image: "DraValeriaRoman.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ilce-valeria-rom%C3%A1n-fern%C3%A1ndez-29675790"
