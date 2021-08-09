@@ -1,20 +1,17 @@
 ---
-title: "VALERIA ROMAN"
-image: "xiang.jpg"
+title: "Dra Valeria Román Fernández"
+image: "DraValeriaRoman.jpj"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/ilce-valeria-rom%C3%A1n-fern%C3%A1ndez-29675790"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/ValeriaRomanF"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:ilce.romanfer@academicos.udg.mx"
 output:
   postcards::jolla_blue
 ---
  
-Raised in New Jersey by two lawyers, I am now an aspiring data artist and 
-competitive rock climber. I moved to Seattle to fly floatplanes, but I got 
-caught up in the startup world. Send me a WhatsApp message if you have good 
-turnip prices.
+Profesor Investigador, Instituto de Investigacion en Ciencias Biomedicas, Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara.
